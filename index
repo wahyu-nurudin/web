@@ -3,7 +3,10 @@
 <title>Websiteku</title>
 </head>
 <body>
-<h1>Salam Pertama</h1>
+<h1>Judul Website</h1>
+<p>Deskripsi Website</p>
+<hr>
+<h2>Salam Pertama</h2>
 <p>Halo, Dunia!</p>
 </body>
 </html>
